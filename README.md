@@ -7,3 +7,5 @@
 [easyjson](https://github.com/mailru/easyjson) - fast json marshal/unmarshal
 
 [go-yaml](https://github.com/mailru/easyjson) - yaml marshal/unmarshal
+
+[go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - grpc middlewares
