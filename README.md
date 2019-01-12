@@ -9,3 +9,5 @@
 [go-yaml](https://github.com/mailru/easyjson) - yaml marshal/unmarshal
 
 [go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - grpc middlewares
+
+[pq](https://github.com/lib/pq) - postgres connector
